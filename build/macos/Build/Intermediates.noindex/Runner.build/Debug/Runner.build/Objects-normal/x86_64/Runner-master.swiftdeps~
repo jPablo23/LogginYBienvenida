@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c0bcb112bd383db2c0a294d7709946bea86d2140943ea982d612937239efb7af"
+build_start_time: [1678396406, 993226051]
+build_end_time: [1678396407, 277296066]
+inputs:
+  "/Users/jpklop/VN/1.Paradigma/pdigmaf1/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1678396357, 538680076]
+  "/Users/jpklop/VN/1.Paradigma/pdigmaf1/macos/Runner/AppDelegate.swift": !private [1677703634, 0]
+  "/Users/jpklop/VN/1.Paradigma/pdigmaf1/macos/Runner/MainFlutterWindow.swift": !private [1677703634, 0]
